@@ -1,5 +1,7 @@
 # ToDoApp
 
+This App includes Create/Update/Delete and also Filtering ToDos using React and Redux.
+
 ### Getting Started
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
